@@ -1,0 +1,2 @@
+comtypes==1.1.10
+uiautomation==2.0.15
